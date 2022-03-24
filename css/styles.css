@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #1abc9c;
+  color: #000000;
   text-decoration: none;
   background-color: transparent;
 }
@@ -10225,7 +10225,7 @@ h3 {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #000;
+  color: #00000000;
   opacity: 1;
 }
 

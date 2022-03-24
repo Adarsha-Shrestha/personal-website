@@ -46,12 +46,12 @@ button.btn{
 
 
 .blogc{
-    height: 100vh;
+    height: 70vh;
     width: 100%;
 }
 
 .blogc .blogc-post{
-    padding-top: 6rem;
+    padding-top: 3rem;
 }
 
 .blogc-post .blogc-content{
